@@ -70,7 +70,7 @@ Make sure you have the following installed:
 
 ### 2️⃣ Clone the Repository
 sh
-git clone https://github.com/your-username/algogenz-project.git
+git clone https://github.com/Y-a-s-h-0-4/kiddoonnect.git
 cd frontend
 cd backend
 
